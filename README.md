@@ -25,3 +25,6 @@ The training method extremely similar to PIVTONS.</p>
 #### Image from [PITVONS](https://link.springer.com/chapter/10.1007/978-3-030-20876-9_41)
 
 #### ** The model is far from perfect - especially with biases towards white female celebrities. A more diverse dataset towards the target audience would be the most optimal solution
+
+#### TODO: Add segmentation model for automated hair swap
+#### TODO: Create separate generators for different races (?)
